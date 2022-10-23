@@ -2,7 +2,7 @@ All about Node JS and Node.js can be used in database applications.
 
 One of the most popular NoSQL databases is MongoDB.
 
-This course will give you insight about
+This will give you insight about
 
 Rest API using NodeJS
 
